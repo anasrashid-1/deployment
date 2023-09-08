@@ -1,0 +1,18 @@
+{
+  "users": [
+ 
+    {
+      "fullName": "Anas",
+      "email": "anasrashidshah@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    
+    {
+      "fullName": "salim",
+      "email": "rejaboj512@mustbeit.com",
+      "password": "scf",
+      "id": 5
+    }
+  ]
+}
